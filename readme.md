@@ -1,4 +1,3 @@
-```markdown
 # DroneLink – Network-Controlled Drone Interface
 
 DroneLink is a modular control system that allows a **mobile phone or laptop to control a drone through an onboard computer**. The onboard computer acts as a **command bridge** between the user interface and the flight controller, translating user inputs into MAVLink commands.
