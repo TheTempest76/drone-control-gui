@@ -1,0 +1,1 @@
+all the code that runs through mission planner with telemetry goes here primarily for testing
